@@ -42,14 +42,15 @@ Online Vocal Remover is useful for:
 - **Two-track output**: get both instrumental and vocal results
 - **Built for speed**: designed for quick online vocal separation
 
-## Website
+## Official Links
 
-Visit the website:
-
-[https://onlinevocalremover.com](https://onlinevocalremover.com)
+- Website: [https://onlinevocalremover.com](https://onlinevocalremover.com)
+- X / Twitter: [https://x.com/VocalRemoverOL](https://x.com/VocalRemoverOL)
+- GitHub: [https://github.com/onlinevocalremover/onlinevocalremover.com](https://github.com/onlinevocalremover/onlinevocalremover.com)
+- Contact: [support@onlinevocalremover.com](mailto:support@onlinevocalremover.com)
 
 ## Contact
 
 For support or business inquiries:
 
-support@onlinevocalremover.com
+[support@onlinevocalremover.com](mailto:support@onlinevocalremover.com)
