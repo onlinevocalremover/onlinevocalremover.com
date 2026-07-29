@@ -1,8 +1,8 @@
 # OnlineVocalRemover.com
 
-**FREE online tools for vocal separation and AI music generation.**
+**FREE online tools for vocal separation, AI lyrics, and AI music generation.**
 
-[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, isolating stems, creating instrumentals, and generating original music from text without installing desktop software.
+[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, isolating stems, writing editable song lyrics, and generating original music from text without installing desktop software.
 
 ## Vocal Remover
 
@@ -12,6 +12,16 @@ Upload a music file and separate it into two useful audio results:
 - **Vocal track**: the isolated singing or spoken voice
 
 The vocal remover is built for karaoke, cover practice, remix preparation, music study, and everyday audio workflows.
+
+## AI Lyrics Generator
+
+The [AI Lyrics Generator](https://onlinevocalremover.com/ai-lyrics-generator) turns a written song idea into an editable title, music direction, and structured lyrics.
+
+- **Lyrics language**: choose the language for the generated lyrics
+- **Optional direction**: guide the draft with a genre, mood, details, or keywords
+- **Editable result**: revise the title, music direction, and lyrics before using them
+- **Connected workflow**: copy the lyrics or continue into the AI Music Generator
+- **1 credit per successful generation**: sign in before generating a lyric draft
 
 ## AI Music Generator
 
@@ -28,6 +38,7 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Remove vocals from songs online
 - Create instrumental tracks for karaoke, covers, remixes, and practice
 - Extract vocals for study, editing, and production
+- Turn a song idea into editable lyrics
 - Generate original music from a text description
 - Compare two generated tracks from one creative brief
 - Preview audio directly in the browser
@@ -51,13 +62,14 @@ Online Vocal Remover is useful for:
 
 - **FREE starting point**: try the tools online before upgrading
 - **No software installation**: work directly in your browser
-- **Focused workflows**: separate existing music or create something new
-- **Useful audio options**: get vocal, instrumental, or generated tracks
-- **Simple controls**: move from an upload or written idea to playable audio
+- **Focused workflows**: separate existing music, write lyrics, or create something new
+- **Useful creative options**: get vocal, instrumental, lyric, or generated music results
+- **Simple controls**: move from an upload or written idea to something you can preview and refine
 
 ## Official Links
 
 - Website: [https://onlinevocalremover.com](https://onlinevocalremover.com)
+- AI Lyrics Generator: [https://onlinevocalremover.com/ai-lyrics-generator](https://onlinevocalremover.com/ai-lyrics-generator)
 - AI Music Generator: [https://onlinevocalremover.com/ai-music-generator](https://onlinevocalremover.com/ai-music-generator)
 - X / Twitter: [https://x.com/VocalRemoverOL](https://x.com/VocalRemoverOL)
 - GitHub: [https://github.com/onlinevocalremover/onlinevocalremover.com](https://github.com/onlinevocalremover/onlinevocalremover.com)
