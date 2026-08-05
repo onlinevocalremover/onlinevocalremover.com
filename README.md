@@ -1,8 +1,8 @@
 # OnlineVocalRemover.com
 
-**FREE online tools for vocal separation, AI song covers, AI lyrics, and AI music generation.**
+**FREE online tools for vocal separation, AI stem splitting, AI song covers, AI lyrics, and AI music generation.**
 
-[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, isolating stems, creating AI song covers, writing editable song lyrics, and generating original music from text without installing desktop software.
+[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, splitting songs into four stems, creating AI song covers, writing editable song lyrics, and generating original music from text without installing desktop software.
 
 ## Vocal Remover
 
@@ -12,6 +12,15 @@ Upload a music file and separate it into two useful audio results:
 - **Vocal track**: the isolated singing or spoken voice
 
 The vocal remover is built for karaoke, cover practice, remix preparation, music study, and everyday audio workflows.
+
+## AI Stem Splitter
+
+The [AI Stem Splitter](https://onlinevocalremover.com/ai-stem-splitter) separates a song into four individual tracks for focused listening, editing, and production workflows.
+
+- **Four-stem separation**: split a song into vocals, drums, bass, and other instruments
+- **Browser preview**: listen to each separated stem before downloading
+- **Flexible downloads**: download individual stems as MP3 or WAV files, or get the complete set as a ZIP
+- **Two source options**: upload an audio file or, when signed in, choose a track from your AI music history
 
 ## AI Song Cover Generator
 
@@ -48,6 +57,8 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Remove vocals from songs online
 - Create instrumental tracks for karaoke, covers, remixes, and practice
 - Extract vocals for study, editing, and production
+- Split songs into vocals, drums, bass, and other instruments
+- Preview and download individual stems or a complete ZIP
 - Create AI song covers with preset or custom trained voices
 - Turn a song idea into editable lyrics
 - Generate original music from a text description
@@ -73,13 +84,14 @@ Online Vocal Remover is useful for:
 
 - **FREE starting point**: try the tools online before upgrading
 - **No software installation**: work directly in your browser
-- **Focused workflows**: separate existing music, create song covers, write lyrics, or generate something new
-- **Useful creative options**: get vocal, instrumental, cover, lyric, or generated music results
+- **Focused workflows**: separate existing music, split stems, create song covers, write lyrics, or generate something new
+- **Useful creative options**: get vocal, instrumental, stem, cover, lyric, or generated music results
 - **Simple controls**: move from an upload or written idea to something you can preview and refine
 
 ## Official Links
 
 - Website: https://onlinevocalremover.com
+- AI Stem Splitter: https://onlinevocalremover.com/ai-stem-splitter
 - AI Song Cover Generator: https://onlinevocalremover.com/ai-song-cover-generator
 - AI Lyrics Generator: https://onlinevocalremover.com/ai-lyrics-generator
 - AI Music Generator: https://onlinevocalremover.com/ai-music-generator
