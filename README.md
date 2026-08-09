@@ -1,8 +1,8 @@
 # OnlineVocalRemover.com
 
-**FREE online tools for vocal separation, AI stem splitting, AI song covers, AI lyrics, and AI music generation.**
+**FREE online tools for vocal separation, AI stem splitting, AI song covers, AI lyrics, AI music generation, and audio-to-MIDI conversion.**
 
-[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, splitting songs into four stems, creating AI song covers, writing editable song lyrics, and generating original music from text without installing desktop software.
+[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, splitting songs into four stems, creating AI song covers, writing editable song lyrics, generating original music from text, and converting audio into editable MIDI without installing desktop software.
 
 ## Vocal Remover
 
@@ -52,6 +52,15 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - **Two-track output**: receive two variations from each successful request
 - **20 credits per generation**: one request produces two tracks
 
+## Audio to MIDI
+
+The [Audio to MIDI converter](https://onlinevocalremover.com/audio-to-midi) detects notes in audio with Basic Pitch and creates a standard MIDI file you can review, edit, and download.
+
+- **Supported inputs**: upload MP3, WAV, FLAC, OGG, M4A, or AAC files up to 50 MB
+- **In-browser review**: compare the original audio and detected MIDI in a piano roll with velocity and zoom controls
+- **Flexible output**: download the original detected MIDI or the currently filtered MIDI
+- **Free access**: convert audio and download MIDI without paying or signing in
+
 ## What You Can Do
 
 - Remove vocals from songs online
@@ -63,6 +72,7 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Turn a song idea into editable lyrics
 - Generate original music from a text description
 - Compare two generated tracks from one creative brief
+- Convert audio to MIDI and review detected notes in a piano roll
 - Preview audio directly in the browser
 - Download completed results after signing in
 - Use batch vocal-remover processing with a paid plan
@@ -84,8 +94,8 @@ Online Vocal Remover is useful for:
 
 - **FREE starting point**: try the tools online before upgrading
 - **No software installation**: work directly in your browser
-- **Focused workflows**: separate existing music, split stems, create song covers, write lyrics, or generate something new
-- **Useful creative options**: get vocal, instrumental, stem, cover, lyric, or generated music results
+- **Focused workflows**: separate music, split stems, create song covers, write lyrics, generate tracks, or convert audio to MIDI
+- **Useful creative options**: get vocal, instrumental, stem, cover, lyric, generated music, or MIDI results
 - **Simple controls**: move from an upload or written idea to something you can preview and refine
 
 ## Official Links
@@ -95,6 +105,7 @@ Online Vocal Remover is useful for:
 - AI Song Cover Generator: https://onlinevocalremover.com/ai-song-cover-generator
 - AI Lyrics Generator: https://onlinevocalremover.com/ai-lyrics-generator
 - AI Music Generator: https://onlinevocalremover.com/ai-music-generator
+- Audio to MIDI: https://onlinevocalremover.com/audio-to-midi
 - X / Twitter: https://x.com/VocalRemoverOL
 - GitHub: https://github.com/onlinevocalremover/onlinevocalremover.com
 - Contact: support@onlinevocalremover.com
