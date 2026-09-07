@@ -1,8 +1,8 @@
 # OnlineVocalRemover.com
 
-**FREE online tools for vocal separation, AI stem splitting, AI song covers, AI lyrics, AI music generation, audio-to-MIDI conversion, and MIDI editing.**
+**FREE online tools for vocal separation, AI stem splitting, AI song covers, AI lyrics, AI music and MIDI generation, audio-to-MIDI conversion, MIDI editing, tempo tapping, and key/BPM analysis.**
 
-[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, splitting songs into four stems, creating AI song covers, writing editable song lyrics, generating original music from text, converting audio into editable MIDI, and editing MIDI files without installing desktop software.
+[OnlineVocalRemover.com](https://onlinevocalremover.com) provides browser-based music tools for removing vocals, splitting songs into four stems, creating AI song covers, writing editable song lyrics, generating original music and MIDI from text, converting audio into editable MIDI, editing MIDI files, tapping tempo, and estimating a song's key and BPM without installing desktop software.
 
 ## Vocal Remover
 
@@ -52,6 +52,16 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - **Two-track output**: receive two variations from each successful request
 - **20 credits per generation**: one request produces two tracks
 
+## AI MIDI Generator
+
+The [AI MIDI Generator](https://onlinevocalremover.com/ai-midi-generator) turns a text prompt into an original MIDI melody that you can preview, download, or continue editing.
+
+- **Prompt-based generation**: describe the melody or musical idea you want to create
+- **Music controls**: choose the BPM, musical key, and a 4- or 8-bar length
+- **Connected editing**: open the generated result directly in the MIDI Editor
+- **Standard output**: preview and download a reusable MIDI file
+- **1 credit per generation**: sign in before generating a melody
+
 ## Audio to MIDI
 
 The [Audio to MIDI converter](https://onlinevocalremover.com/audio-to-midi) detects notes in audio with Basic Pitch and creates a standard MIDI file you can review, edit, and download.
@@ -72,6 +82,25 @@ The [MIDI Editor](https://onlinevocalremover.com/midi-editor) lets you open an e
 - **History and export**: save versions while editing and download the updated MIDI
 - **Connected workflow**: use Audio to MIDI for conversion, then continue editing the result in the MIDI Editor
 
+## BPM Tapper
+
+The [BPM Tapper](https://onlinevocalremover.com/bpm-tapper) helps you estimate a song's tempo by tapping along with its beat.
+
+- **Flexible tapping**: use the on-screen button, Space, or Enter
+- **Recent-tap estimate**: the tool uses recent intervals and trims outliers once enough taps are available
+- **Quick reset**: clear the estimate and start again when the beat changes
+- **Local workflow**: tapping runs in your browser and uploads nothing
+
+## Key & BPM Finder
+
+The [Key & BPM Finder](https://onlinevocalremover.com/key-bpm-finder) estimates a song's musical key and tempo from a local audio file.
+
+- **Useful results**: review BPM, key, Major or Minor mode, Camelot code, and duration
+- **Local analysis**: the selected audio is decoded and analyzed in your browser rather than uploaded for this check
+- **Supported files**: analyze MP3, WAV, FLAC, M4A, AAC, or OGG files up to 20 MB and 10 minutes
+- **Honest uncertainty**: weak beat or tonal evidence may return an uncertain result that should be checked by listening
+- **No account required**: choose a supported audio file and start the analysis directly
+
 ## What You Can Do
 
 - Remove vocals from songs online
@@ -83,8 +112,11 @@ The [MIDI Editor](https://onlinevocalremover.com/midi-editor) lets you open an e
 - Turn a song idea into editable lyrics
 - Generate original music from a text description
 - Compare two generated tracks from one creative brief
+- Generate a MIDI melody with BPM, key, and bar-length controls
 - Convert audio to MIDI and review detected notes in a piano roll
 - Edit MIDI notes, velocity, tracks, instruments, and tempo in your browser
+- Tap along with a beat to estimate its BPM
+- Estimate a local audio file's BPM, musical key, mode, and Camelot code
 - Preview audio directly in the browser
 - Download completed results after signing in
 - Use batch vocal-remover processing with a paid plan
@@ -106,9 +138,9 @@ Online Vocal Remover is useful for:
 
 - **FREE starting point**: try the tools online before upgrading
 - **No software installation**: work directly in your browser
-- **Focused workflows**: separate music, split stems, create song covers, write lyrics, generate tracks, convert audio to MIDI, or edit MIDI files
-- **Useful creative options**: get vocal, instrumental, stem, cover, lyric, generated music, converted MIDI, or edited MIDI results
-- **Simple controls**: move from an upload or written idea to something you can preview and refine
+- **Focused workflows**: separate music, split stems, create song covers, write lyrics, generate music or MIDI, convert audio to MIDI, edit MIDI files, tap tempo, or analyze key and BPM
+- **Useful creative options**: get vocal, instrumental, stem, cover, lyric, generated music, generated MIDI, converted MIDI, edited MIDI, tempo, or key-analysis results
+- **Simple controls**: move from an upload, written idea, or beat to something you can preview and refine
 
 ## Official Links
 
@@ -117,14 +149,17 @@ Online Vocal Remover is useful for:
 - AI Song Cover Generator: https://onlinevocalremover.com/ai-song-cover-generator
 - AI Lyrics Generator: https://onlinevocalremover.com/ai-lyrics-generator
 - AI Music Generator: https://onlinevocalremover.com/ai-music-generator
+- AI MIDI Generator: https://onlinevocalremover.com/ai-midi-generator
 - Audio to MIDI: https://onlinevocalremover.com/audio-to-midi
 - MIDI Editor: https://onlinevocalremover.com/midi-editor
+- BPM Tapper: https://onlinevocalremover.com/bpm-tapper
+- Key & BPM Finder: https://onlinevocalremover.com/key-bpm-finder
 - X / Twitter: https://x.com/VocalRemoverOL
 - GitHub: https://github.com/onlinevocalremover/onlinevocalremover.com
-- Contact: support@onlinevocalremover.com
+- Contact: [support@onlinevocalremover.com](mailto:support@onlinevocalremover.com)
 
 ## Contact
 
 For support or business inquiries:
 
-support@onlinevocalremover.com
+[support@onlinevocalremover.com](mailto:support@onlinevocalremover.com)
