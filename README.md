@@ -13,6 +13,16 @@ Upload a music file and separate it into two useful audio results:
 
 The vocal remover is built for karaoke, cover practice, remix preparation, music study, and everyday audio workflows.
 
+## Instrumental Maker
+
+The [Instrumental Maker](https://onlinevocalremover.com/instrumental-maker) separates an existing song into estimated instrumental and vocal tracks.
+
+- Upload a supported audio file or choose a generated track when signed in
+- Preview the instrumental and vocals before downloading the instrumental
+- Use only recordings you own or are authorized to process
+
+
+
 ## AI Stem Splitter
 
 The [AI Stem Splitter](https://onlinevocalremover.com/ai-stem-splitter) separates a song into vocals, drums, bass, and other instruments.
@@ -20,6 +30,16 @@ The [AI Stem Splitter](https://onlinevocalremover.com/ai-stem-splitter) separate
 - Preview each stem before downloading
 - Download individual stems as MP3 or WAV, or get the complete set as a ZIP
 - Upload an audio file or, when signed in, choose a track from your AI music history
+
+## Slowed + Reverb
+
+The [Slowed + Reverb tool](https://onlinevocalremover.com/slowed-and-reverb) lets you adjust playback speed, reverb wet mix, and optional pitch locally in your browser.
+
+- Choose an MP3, WAV, M4A, or OGG file and preview the changes
+- Export a new MP3 or WAV without overwriting the original
+- Use only recordings you have permission to transform
+
+
 
 ## AI Song Cover Generator
 
@@ -165,7 +185,9 @@ Online Vocal Remover is useful for:
 ## Official Links
 
 - Website: [https://onlinevocalremover.com](https://onlinevocalremover.com)
+- Instrumental Maker: [https://onlinevocalremover.com/instrumental-maker](https://onlinevocalremover.com/instrumental-maker)
 - AI Stem Splitter: [https://onlinevocalremover.com/ai-stem-splitter](https://onlinevocalremover.com/ai-stem-splitter)
+- Slowed + Reverb: [https://onlinevocalremover.com/slowed-and-reverb](https://onlinevocalremover.com/slowed-and-reverb)
 - AI Song Cover Generator: [https://onlinevocalremover.com/ai-song-cover-generator](https://onlinevocalremover.com/ai-song-cover-generator)
 - AI Lyrics Generator: [https://onlinevocalremover.com/ai-lyrics-generator](https://onlinevocalremover.com/ai-lyrics-generator)
 - AI Music Generator: [https://onlinevocalremover.com/ai-music-generator](https://onlinevocalremover.com/ai-music-generator)
