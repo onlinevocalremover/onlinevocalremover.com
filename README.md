@@ -1,8 +1,10 @@
 # OnlineVocalRemover.com
 
-**FREE online tools for vocal separation, AI music and video, MIDI creation and editing, MP3 tagging, lyric videos, tempo tapping, and key/BPM analysis.**
+**Browser-based tools for vocal separation, audio editing, AI music and video, MIDI creation and editing, MP3 tagging, and key/BPM analysis.**
 
 [OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, and analyze tempo or musical key from one website.
+
+Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, and AI MIDI Generator are free under their stated limits; AI Song Extender requires sign-in and uses 20 credits per extension. Check each tool page for current access conditions.
 
 ## Vocal Remover
 
@@ -41,6 +43,14 @@ The [Slowed + Reverb tool](https://onlinevocalremover.com/slowed-and-reverb) let
 
 
 
+## Audio Cutter
+
+The [Audio Cutter](https://onlinevocalremover.com/audio-cutter) lets you select an audio range, preview your edit, and export a new MP3 or WAV locally in your browser.
+
+- Free to use, with no account, upload, or credits required
+- Choose MP3, WAV, M4A, OGG, or FLAC audio, up to 50 MB and 10 minutes
+- Download the edited copy while keeping the original file unchanged
+
 ## AI Song Cover Generator
 
 The [AI Song Cover Generator](https://onlinevocalremover.com/ai-song-cover-generator) lets you upload an existing song and recreate its lead vocal with a preset voice or a custom voice you train.
@@ -65,6 +75,15 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Control title, style, lyrics, and excluded sounds in Custom mode
 - Create instrumental music without lead vocals
 
+## AI Song Extender
+
+The [AI Song Extender](https://onlinevocalremover.com/song-extender) generates a new musical section from a continuation point you choose in a source track.
+
+- Upload an MP3, WAV, or M4A file up to 50 MB and 8 minutes, or choose a completed track from your AI music history
+- Follow the source or add custom guidance, then preview and download completed MP3 results
+- Sign-in required; each extension uses 20 credits
+- Use only recordings you own or are authorized to process
+
 ## YuE2 Music Generator
 
 The [YuE2 Music Generator](https://onlinevocalremover.com/models/yue) is a research-preview workspace for creating a song from lyrics and style guidance.
@@ -79,7 +98,8 @@ The [AI MIDI Generator](https://onlinevocalremover.com/ai-midi-generator) turns 
 
 - Describe the melody or musical idea you want to create
 - Choose BPM, musical key, and a 4- or 8-bar length
-- Open the generated result directly in the MIDI Editor
+- Generate for free without using credits: guests can generate once per day, and signed-in users up to five times per day
+- Sign in for account history or to send a result directly to the MIDI Editor; downloaded MIDI can be edited without signing in
 
 ## Audio to MIDI
 
@@ -156,6 +176,8 @@ The [Key & BPM Finder](https://onlinevocalremover.com/key-bpm-finder) estimates 
 - Create AI song covers, lyrics, music, and MIDI
 - Generate songs in the YuE2 research-preview workspace
 - Convert audio to MIDI and edit MIDI files
+- Trim audio and export a new MP3 or WAV locally
+- Extend a musical idea from a chosen continuation point
 - Edit MP3 metadata and cover art in batches
 - Turn songs into AI story videos, music visualizers, and photo or lyric videos
 - Tap a beat to estimate BPM or analyze a file's key, mode, and tempo
@@ -188,6 +210,8 @@ Online Vocal Remover is useful for:
 - Instrumental Maker: [https://onlinevocalremover.com/instrumental-maker](https://onlinevocalremover.com/instrumental-maker)
 - AI Stem Splitter: [https://onlinevocalremover.com/ai-stem-splitter](https://onlinevocalremover.com/ai-stem-splitter)
 - Slowed + Reverb: [https://onlinevocalremover.com/slowed-and-reverb](https://onlinevocalremover.com/slowed-and-reverb)
+- Audio Cutter: [https://onlinevocalremover.com/audio-cutter](https://onlinevocalremover.com/audio-cutter)
+- AI Song Extender: [https://onlinevocalremover.com/song-extender](https://onlinevocalremover.com/song-extender)
 - AI Song Cover Generator: [https://onlinevocalremover.com/ai-song-cover-generator](https://onlinevocalremover.com/ai-song-cover-generator)
 - AI Lyrics Generator: [https://onlinevocalremover.com/ai-lyrics-generator](https://onlinevocalremover.com/ai-lyrics-generator)
 - AI Music Generator: [https://onlinevocalremover.com/ai-music-generator](https://onlinevocalremover.com/ai-music-generator)
