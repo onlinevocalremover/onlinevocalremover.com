@@ -1,10 +1,10 @@
 # OnlineVocalRemover.com
 
-**Browser-based tools for vocal separation, audio editing, AI music and video, MIDI creation and editing, MP3 tagging, and key/BPM analysis.**
+**Browser-based tools for vocal separation, audio editing, AI music and video, MIDI creation and editing, MP3 tagging, music discovery, and key/BPM analysis.**
 
-[OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, and analyze tempo or musical key from one website.
+[OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, discover similar songs, and analyze tempo or musical key from one website.
 
-Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, and AI MIDI Generator are free under their stated limits; AI Song Extender requires sign-in and uses 20 credits per extension. Check each tool page for current access conditions.
+Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender and the K-pop, Rap, and Jazz generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
 
 ## Vocal Remover
 
@@ -74,6 +74,33 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Use a complete prompt in Simple mode
 - Control title, style, lyrics, and excluded sounds in Custom mode
 - Create instrumental music without lead vocals
+
+## K-pop Song Generator
+
+The [K-pop Song Generator](https://onlinevocalremover.com/ai-music-generator/kpop) turns a song concept or your own lyrics into a new K-pop track.
+
+- Start with Power Dance, Sweet Summer, Dark Pulse, Retro Pop, Dreamy Bloom, or Soft Ballad, then edit the description
+- Describe a song or bring your own lyrics; an instrumental option is available
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## AI Rap Generator
+
+The [AI Rap Generator](https://onlinevocalremover.com/ai-music-generator/rap) turns an idea or your own lyrics into a rap track with a beat and vocal delivery.
+
+- Choose Boom bap, Trap, Melodic rap, Drill, Storytelling, or Lo-fi rap as a starting direction
+- Edit the description or use your own lyrics, then preview and download completed results
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## AI Jazz Music Generator
+
+The [AI Jazz Music Generator](https://onlinevocalremover.com/ai-music-generator/jazz) turns a musical description or your own lyrics into a new jazz track.
+
+- Start with Piano trio, Swing, Bossa nova, Smooth jazz, Late-night jazz, or Jazz ballad
+- Instrumental mode is on by default; edit the direction before generating
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
 
 ## AI Song Extender
 
@@ -169,11 +196,23 @@ The [Key & BPM Finder](https://onlinevocalremover.com/key-bpm-finder) estimates 
 - Analyze supported audio locally in your browser
 - See an uncertain result when the beat or tonal evidence is weak
 
+## Similar Song Finder
+
+The [Similar Song Finder](https://onlinevocalremover.com/similar-songs) helps you discover recommendations from a song you already know.
+
+- Search by song title or use a Spotify track link; no Spotify account is needed
+- Confirm the artist and recording before finding similar songs
+- Explore another recommendation as a new starting point
+- Free to use, with no sign-up required
+- Recommendations depend on catalog coverage and are not a measured audio-similarity score
+
 ## What You Can Do
 
 - Remove vocals and create instrumental tracks
 - Split songs into vocals, drums, bass, and other instruments
 - Create AI song covers, lyrics, music, and MIDI
+- Explore K-pop, Rap, and Jazz song-generation workflows
+- Discover similar songs from a title or Spotify track link
 - Generate songs in the YuE2 research-preview workspace
 - Convert audio to MIDI and edit MIDI files
 - Trim audio and export a new MP3 or WAV locally
@@ -212,6 +251,10 @@ Online Vocal Remover is useful for:
 - Slowed + Reverb: [https://onlinevocalremover.com/slowed-and-reverb](https://onlinevocalremover.com/slowed-and-reverb)
 - Audio Cutter: [https://onlinevocalremover.com/audio-cutter](https://onlinevocalremover.com/audio-cutter)
 - AI Song Extender: [https://onlinevocalremover.com/song-extender](https://onlinevocalremover.com/song-extender)
+- K-pop Song Generator: [https://onlinevocalremover.com/ai-music-generator/kpop](https://onlinevocalremover.com/ai-music-generator/kpop)
+- AI Rap Generator: [https://onlinevocalremover.com/ai-music-generator/rap](https://onlinevocalremover.com/ai-music-generator/rap)
+- AI Jazz Music Generator: [https://onlinevocalremover.com/ai-music-generator/jazz](https://onlinevocalremover.com/ai-music-generator/jazz)
+- Similar Song Finder: [https://onlinevocalremover.com/similar-songs](https://onlinevocalremover.com/similar-songs)
 - AI Song Cover Generator: [https://onlinevocalremover.com/ai-song-cover-generator](https://onlinevocalremover.com/ai-song-cover-generator)
 - AI Lyrics Generator: [https://onlinevocalremover.com/ai-lyrics-generator](https://onlinevocalremover.com/ai-lyrics-generator)
 - AI Music Generator: [https://onlinevocalremover.com/ai-music-generator](https://onlinevocalremover.com/ai-music-generator)
