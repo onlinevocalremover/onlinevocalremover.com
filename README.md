@@ -4,7 +4,7 @@
 
 [OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, discover similar songs, and analyze tempo or musical key from one website.
 
-Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender and the K-pop, Rap, and Jazz generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
+Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender and the K-pop, Rap, Jazz, Blues, Country, EDM, and House generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
 
 ## Vocal Remover
 
@@ -99,6 +99,42 @@ The [AI Jazz Music Generator](https://onlinevocalremover.com/ai-music-generator/
 
 - Start with Piano trio, Swing, Bossa nova, Smooth jazz, Late-night jazz, or Jazz ballad
 - Instrumental mode is on by default; edit the direction before generating
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## AI Blues Music Generator
+
+The [AI Blues Music Generator](https://onlinevocalremover.com/ai-music-generator/blues) turns a guitar idea, a groove description, or your own lyrics into a new blues track.
+
+- Start with Slow blues, Chicago blues, Delta blues, Texas blues, Blues shuffle, or Soul blues, then edit the direction
+- Vocals are enabled by default; switch to instrumental mode when you want music without singing
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## AI Country Song Generator
+
+The [AI Country Song Generator](https://onlinevocalremover.com/ai-music-generator/country) turns a scene, a musical description, or your own lyrics into a new country track.
+
+- Start with Acoustic country, Country pop, Country rock, Bluegrass, Honky-tonk, or Country ballad, then edit the direction
+- Vocals are enabled by default; edit the description or bring your own lyrics
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## EDM Music Maker
+
+The [EDM Music Maker](https://onlinevocalremover.com/ai-music-generator/edm) turns a synth idea, a rhythm description, or your lyrics into a new electronic dance track.
+
+- Start with Festival EDM, Future bass, Melodic dubstep, Drum and bass, Electro EDM, or Chill electronic, then edit the direction
+- Instrumental mode is on by default; describe the synths, drums, energy, and atmosphere
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## House Music Maker
+
+The [House Music Maker](https://onlinevocalremover.com/ai-music-generator/house) turns a steady pulse, a bass idea, or your own lyrics into a new house track.
+
+- Start with Deep house, Tech house, Progressive house, Disco house, Piano house, or Afro house, then edit the direction
+- Instrumental mode is on by default; shape the bass, percussion, chords, and atmosphere
 - Sign-in required; each request uses 20 credits and can return up to two variations
 - Eligible new accounts receive 20 welcome credits; eligibility is conditional
 
@@ -211,7 +247,7 @@ The [Similar Song Finder](https://onlinevocalremover.com/similar-songs) helps yo
 - Remove vocals and create instrumental tracks
 - Split songs into vocals, drums, bass, and other instruments
 - Create AI song covers, lyrics, music, and MIDI
-- Explore K-pop, Rap, and Jazz song-generation workflows
+- Explore K-pop, Rap, Jazz, Blues, Country, EDM, and House song-generation workflows
 - Discover similar songs from a title or Spotify track link
 - Generate songs in the YuE2 research-preview workspace
 - Convert audio to MIDI and edit MIDI files
@@ -254,6 +290,10 @@ Online Vocal Remover is useful for:
 - K-pop Song Generator: [https://onlinevocalremover.com/ai-music-generator/kpop](https://onlinevocalremover.com/ai-music-generator/kpop)
 - AI Rap Generator: [https://onlinevocalremover.com/ai-music-generator/rap](https://onlinevocalremover.com/ai-music-generator/rap)
 - AI Jazz Music Generator: [https://onlinevocalremover.com/ai-music-generator/jazz](https://onlinevocalremover.com/ai-music-generator/jazz)
+- AI Blues Music Generator: [https://onlinevocalremover.com/ai-music-generator/blues](https://onlinevocalremover.com/ai-music-generator/blues)
+- AI Country Song Generator: [https://onlinevocalremover.com/ai-music-generator/country](https://onlinevocalremover.com/ai-music-generator/country)
+- EDM Music Maker: [https://onlinevocalremover.com/ai-music-generator/edm](https://onlinevocalremover.com/ai-music-generator/edm)
+- House Music Maker: [https://onlinevocalremover.com/ai-music-generator/house](https://onlinevocalremover.com/ai-music-generator/house)
 - Similar Song Finder: [https://onlinevocalremover.com/similar-songs](https://onlinevocalremover.com/similar-songs)
 - AI Song Cover Generator: [https://onlinevocalremover.com/ai-song-cover-generator](https://onlinevocalremover.com/ai-song-cover-generator)
 - AI Lyrics Generator: [https://onlinevocalremover.com/ai-lyrics-generator](https://onlinevocalremover.com/ai-lyrics-generator)
