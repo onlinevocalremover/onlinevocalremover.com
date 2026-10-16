@@ -4,7 +4,7 @@
 
 [OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, discover similar songs, and analyze tempo or musical key from one website.
 
-Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender and the K-pop, Rap, Jazz, Blues, Country, EDM, and House generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
+Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender, Add Instrumental, AI Mashup Maker, Lip Sync Video, and the Pop, K-pop, Rap, Jazz, Blues, Country, EDM, and House generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
 
 ## Vocal Remover
 
@@ -75,6 +75,15 @@ The [AI Music Generator](https://onlinevocalremover.com/ai-music-generator) turn
 - Control title, style, lyrics, and excluded sounds in Custom mode
 - Create instrumental music without lead vocals
 
+## Pop Music Generator
+
+The [Pop Music Generator](https://onlinevocalremover.com/ai-music-generator/pop) turns an idea or your own lyrics into a new pop song.
+
+- Start with Bright pop, Acoustic pop, Synth pop, Dance pop, Indie pop, or Pop ballad
+- Edit the direction and choose vocals or an instrumental
+- Sign-in required; each request uses 20 credits and can return up to two variations
+- Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
 ## K-pop Song Generator
 
 The [K-pop Song Generator](https://onlinevocalremover.com/ai-music-generator/kpop) turns a song concept or your own lyrics into a new K-pop track.
@@ -138,6 +147,24 @@ The [House Music Maker](https://onlinevocalremover.com/ai-music-generator/house)
 - Sign-in required; each request uses 20 credits and can return up to two variations
 - Eligible new accounts receive 20 welcome credits; eligibility is conditional
 
+## Add Instrumental
+
+The [Add Instrumental tool](https://onlinevocalremover.com/add-instrumental) develops a vocal recording or hummed melody into a full song draft with generated backing.
+
+- Upload source audio or choose a saved track, then describe the musical style
+- Preview available results, download MP3, and revisit completed tasks in history
+- The generated song may change the original voice or performance; unchanged vocals are not guaranteed
+- Sign-in required; each request uses 20 usable credits, including eligible gift and check-in balances
+
+## AI Mashup Maker
+
+The [AI Mashup Maker](https://onlinevocalremover.com/mashup-generator) creates a new song guided by two audio references and a musical description.
+
+- Upload two references or choose available account tracks; set a target duration of 10–360 seconds
+- Generate a new interpretation rather than directly overlaying the originals; vocals and melodies may change
+- Recordings matched by the generation service's catalog are rejected even when you have permission to use them
+- Sign-in required; each request uses 20 usable credits, including eligible gift and check-in balances
+
 ## AI Song Extender
 
 The [AI Song Extender](https://onlinevocalremover.com/song-extender) generates a new musical section from a continuation point you choose in a source track.
@@ -198,6 +225,15 @@ The [AI Music Video](https://onlinevocalremover.com/ai-music-video) workspace tu
 - Build and refine a storyboard, reference images, characters, visual style, and aspect ratio
 - Generate video clips, assemble the result, and download an MP4
 
+## Lip Sync Video
+
+The [Lip Sync Video tool](https://onlinevocalremover.com/lip-sync-video) makes a portrait speak or sing using an audio excerpt you select.
+
+- Upload a portrait or choose a saved character, then audition a 4–15-second voice or song clip
+- Choose 768P or 2K, a frame shape, and optional performance guidance; preview and download the completed MP4
+- Sign-in required; each request uses 20 usable credits, including eligible gift and check-in balances
+- Use images and audio you are authorized to use, and follow the destination platform's rules for generated performances
+
 ## Music Visualizer
 
 The [Music Visualizer](https://onlinevocalremover.com/ai-music-video/music-visualizer) creates an audio-reactive video from a song.
@@ -247,7 +283,9 @@ The [Similar Song Finder](https://onlinevocalremover.com/similar-songs) helps yo
 - Remove vocals and create instrumental tracks
 - Split songs into vocals, drums, bass, and other instruments
 - Create AI song covers, lyrics, music, and MIDI
-- Explore K-pop, Rap, Jazz, Blues, Country, EDM, and House song-generation workflows
+- Explore Pop, K-pop, Rap, Jazz, Blues, Country, EDM, and House song-generation workflows
+- Develop a vocal into a song draft or create a new interpretation from two audio references
+- Animate a portrait with a short voice or song clip
 - Discover similar songs from a title or Spotify track link
 - Generate songs in the YuE2 research-preview workspace
 - Convert audio to MIDI and edit MIDI files
@@ -308,6 +346,11 @@ Online Vocal Remover is useful for:
 - Photo & Lyric Video: [https://onlinevocalremover.com/ai-music-video/photo-video](https://onlinevocalremover.com/ai-music-video/photo-video)
 - BPM Tapper: [https://onlinevocalremover.com/bpm-tapper](https://onlinevocalremover.com/bpm-tapper)
 - Key & BPM Finder: [https://onlinevocalremover.com/key-bpm-finder](https://onlinevocalremover.com/key-bpm-finder)
+- Lip Sync Video: [https://onlinevocalremover.com/lip-sync-video](https://onlinevocalremover.com/lip-sync-video)
+- Add Instrumental: [https://onlinevocalremover.com/add-instrumental](https://onlinevocalremover.com/add-instrumental)
+- Pop Music Generator: [https://onlinevocalremover.com/ai-music-generator/pop](https://onlinevocalremover.com/ai-music-generator/pop)
+- AI Mashup Maker: [https://onlinevocalremover.com/mashup-generator](https://onlinevocalremover.com/mashup-generator)
+
 - X / Twitter: [https://x.com/VocalRemoverOL](https://x.com/VocalRemoverOL)
 - GitHub: [https://github.com/onlinevocalremover/onlinevocalremover.com](https://github.com/onlinevocalremover/onlinevocalremover.com)
 - Contact: [support@onlinevocalremover.com](mailto:support@onlinevocalremover.com)
