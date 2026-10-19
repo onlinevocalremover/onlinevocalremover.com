@@ -4,7 +4,7 @@
 
 [OnlineVocalRemover.com](https://onlinevocalremover.com) brings practical music and video workflows together in the browser. Remove vocals, split stems, create music and MIDI, edit MP3 metadata, turn songs into videos, discover similar songs, and analyze tempo or musical key from one website.
 
-Free tools and credit-based generation are available on the same site. Audio Cutter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender, Add Instrumental, AI Mashup Maker, Lip Sync Video, and the Pop, K-pop, Rap, Jazz, Blues, Country, EDM, and House generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
+Free tools and credit-based generation are available on the same site. Audio Cutter, Lo-fi Converter, MP3 Tag Editor, AI MIDI Generator, and Similar Song Finder are free under their stated limits. AI Song Extender, Add Instrumental, AI Mashup Maker, Lip Sync Video, and the Pop, K-pop, Rap, Jazz, Blues, Country, EDM, House, Phonk, Mambo, and Metal generators require sign-in and use 20 credits per request. Check each tool page for current access conditions.
 
 ## Vocal Remover
 
@@ -42,6 +42,15 @@ The [Slowed + Reverb tool](https://onlinevocalremover.com/slowed-and-reverb) let
 - Use only recordings you have permission to transform
 
 
+
+## Lo-fi Converter
+
+The [Lo-fi Converter](https://onlinevocalremover.com/lofi-converter) applies a vintage sound to an existing recording locally in your browser.
+
+- Free to use, with no sign-up, audio upload, or credits required
+- Adjust speed, vintage texture, and vinyl noise; compare Original and Lo-fi previews
+- Export a new MP3 or WAV while keeping the source file unchanged
+- Applies effects to your audio rather than composing a new song
 
 ## Audio Cutter
 
@@ -146,6 +155,30 @@ The [House Music Maker](https://onlinevocalremover.com/ai-music-generator/house)
 - Instrumental mode is on by default; shape the bass, percussion, chords, and atmosphere
 - Sign-in required; each request uses 20 credits and can return up to two variations
 - Eligible new accounts receive 20 welcome credits; eligibility is conditional
+
+## Phonk Maker
+
+The [Phonk Maker](https://onlinevocalremover.com/ai-music-generator/phonk) turns a description or your own lyrics into a new phonk track with cowbells, 808 bass, and a gritty groove.
+
+- Start with Drift, Memphis, Brazilian, Atmospheric, Aggressive, or House phonk, then edit the direction
+- Instrumental mode is on by default; turn it off for vocals or your own lyrics
+- Sign-in required; each request uses 20 credits and can return up to two variations
+
+## Mambo Music Generator
+
+The [Mambo Music Generator](https://onlinevocalremover.com/ai-music-generator/mambo) turns a description or your own lyrics into a new mambo track with brass, piano, and Latin percussion.
+
+- Start with Classic, Big-band, Son-inspired, Latin-jazz, Romantic, or Modern mambo, then edit the direction
+- Instrumental mode is on by default; turn it off for vocals or your own lyrics
+- Sign-in required; each request uses 20 credits and can return up to two variations
+
+## Metal Music Generator
+
+The [Metal Music Generator](https://onlinevocalremover.com/ai-music-generator/metal) turns a description or your own lyrics into a new metal track built around guitar riffs, bass, and drums.
+
+- Start with Heavy, Thrash, Melodic death, Symphonic, Progressive, or Doom metal, then edit the direction
+- Instrumental mode is on by default; turn it off for vocals or your own lyrics
+- Sign-in required; each request uses 20 credits and can return up to two variations
 
 ## Add Instrumental
 
@@ -283,12 +316,13 @@ The [Similar Song Finder](https://onlinevocalremover.com/similar-songs) helps yo
 - Remove vocals and create instrumental tracks
 - Split songs into vocals, drums, bass, and other instruments
 - Create AI song covers, lyrics, music, and MIDI
-- Explore Pop, K-pop, Rap, Jazz, Blues, Country, EDM, and House song-generation workflows
+- Explore Pop, K-pop, Rap, Jazz, Blues, Country, EDM, House, Phonk, Mambo, and Metal song-generation workflows
 - Develop a vocal into a song draft or create a new interpretation from two audio references
 - Animate a portrait with a short voice or song clip
 - Discover similar songs from a title or Spotify track link
 - Generate songs in the YuE2 research-preview workspace
 - Convert audio to MIDI and edit MIDI files
+- Apply lo-fi effects to an existing recording locally in your browser
 - Trim audio and export a new MP3 or WAV locally
 - Extend a musical idea from a chosen continuation point
 - Edit MP3 metadata and cover art in batches
@@ -350,6 +384,11 @@ Online Vocal Remover is useful for:
 - Add Instrumental: [https://onlinevocalremover.com/add-instrumental](https://onlinevocalremover.com/add-instrumental)
 - Pop Music Generator: [https://onlinevocalremover.com/ai-music-generator/pop](https://onlinevocalremover.com/ai-music-generator/pop)
 - AI Mashup Maker: [https://onlinevocalremover.com/mashup-generator](https://onlinevocalremover.com/mashup-generator)
+
+- Lo-fi Converter: [https://onlinevocalremover.com/lofi-converter](https://onlinevocalremover.com/lofi-converter)
+- Phonk Maker: [https://onlinevocalremover.com/ai-music-generator/phonk](https://onlinevocalremover.com/ai-music-generator/phonk)
+- Mambo Music Generator: [https://onlinevocalremover.com/ai-music-generator/mambo](https://onlinevocalremover.com/ai-music-generator/mambo)
+- Metal Music Generator: [https://onlinevocalremover.com/ai-music-generator/metal](https://onlinevocalremover.com/ai-music-generator/metal)
 
 - X / Twitter: [https://x.com/VocalRemoverOL](https://x.com/VocalRemoverOL)
 - GitHub: [https://github.com/onlinevocalremover/onlinevocalremover.com](https://github.com/onlinevocalremover/onlinevocalremover.com)
